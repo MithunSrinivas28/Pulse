@@ -1,0 +1,16 @@
+# Node
+node_modules/
+.env
+
+# Python
+ml-service/venv/
+__pycache__/
+*.pyc
+.env
+
+# Vite
+dashboard/node_modules/
+dashboard/dist/
+
+# Misc
+.DS_Store
