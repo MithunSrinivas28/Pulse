@@ -10,7 +10,7 @@ Pulse connects directly to the Docker Engine on your machine, polls every runnin
 
 
 ---
-![Pulse Architecture] <img width="1693" height="929" alt="ChatGPT Image Jun 17, 2026, 03_27_31 PM" src="https://github.com/user-attachments/assets/daa8d946-0238-47ac-910b-4228067dceb9" />
+<img width="1693" height="929" alt="ChatGPT Image Jun 17, 2026, 03_27_31 PM" src="https://github.com/user-attachments/assets/daa8d946-0238-47ac-910b-4228067dceb9" />
 
 ---
 
