@@ -8,6 +8,10 @@ I built Pulse as a full-stack engineering project to monitor Docker containers i
 
 Pulse connects directly to the Docker Engine on your machine, polls every running container every 10 seconds, stores the metrics in MongoDB, and serves them through a REST API. A separate Python ML service trains an LSTM Autoencoder on normal container behavior and flags anomalies when something looks off. A React dashboard ties it all together — live cards, time-series charts, and anomaly indicators updating in real time.
 
+
+---
+![Pulse Architecture] <img width="1693" height="929" alt="ChatGPT Image Jun 17, 2026, 03_27_31 PM" src="https://github.com/user-attachments/assets/daa8d946-0238-47ac-910b-4228067dceb9" />
+
 ---
 
 ## Architecture
